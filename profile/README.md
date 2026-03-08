@@ -1,1 +1,1 @@
-# Novuro Solutions
+# Novuro
